@@ -33,7 +33,7 @@
 <details>
   <summary>Client</summary>
     <ul>
-    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
+    <li><a href="https://github.com/jmonto55/hello-react-frontend">Hello React Frontend</a></li>
   </ul>
 </details>
 <details>
