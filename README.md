@@ -101,6 +101,7 @@ Create the databases,run migrations, and populate it with seed data:
 ```sh
 rails db:create
 rails db:migrate
+rails db:seed
 ```
 
 ### Usage
